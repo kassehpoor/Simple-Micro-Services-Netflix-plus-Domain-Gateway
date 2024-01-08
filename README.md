@@ -1,5 +1,4 @@
 # Simple-Java-Micro-Services-App
-# Spring Cloud Microservices Project
 
 This repository contains a set of microservices built using the Spring Cloud framework. The project consists of the following modules:
 
